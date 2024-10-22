@@ -1,0 +1,112 @@
+# Blender 4.2.2 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl BodyMT
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/usuario/Downloads/Nintendo Switch - Super Mario Odyssey - Mario/Super Mario Odyssey/Mario/images/MarioBody_alb.png
+
+newmtl CapMT
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/usuario/Downloads/Nintendo Switch - Super Mario Odyssey - Mario/Super Mario Odyssey/Mario/images/MarioCap_alb.png
+
+newmtl CaptainCapMT
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/usuario/Downloads/Nintendo Switch - Super Mario Odyssey - Mario/Super Mario Odyssey/Mario/images/MarioCaptainCap_alb.png
+
+newmtl EyeBallMT
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/usuario/Downloads/Nintendo Switch - Super Mario Odyssey - Mario/Super Mario Odyssey/Mario/images/MarioEyeBall_alb.png
+
+newmtl EyeMT
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/usuario/Downloads/Nintendo Switch - Super Mario Odyssey - Mario/Super Mario Odyssey/Mario/images/MarioEye_alb.png
+
+newmtl EyePupilLeftMT
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/Users/usuario/Downloads/Nintendo Switch - Super Mario Odyssey - Mario/Super Mario Odyssey/Mario/images/MarioEyePupil_alb.png
+map_d C:/Users/usuario/Downloads/Nintendo Switch - Super Mario Odyssey - Mario/Super Mario Odyssey/Mario/images/MarioEyePupil_alb.png
+
+newmtl EyePupilRightMT
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/Users/usuario/Downloads/Nintendo Switch - Super Mario Odyssey - Mario/Super Mario Odyssey/Mario/images/MarioEyePupil_alb.png
+map_d C:/Users/usuario/Downloads/Nintendo Switch - Super Mario Odyssey - Mario/Super Mario Odyssey/Mario/images/MarioEyePupil_alb.png
+
+newmtl FaceMT
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/usuario/Downloads/Nintendo Switch - Super Mario Odyssey - Mario/Super Mario Odyssey/Mario/images/MarioFace_alb.png
+
+newmtl HairFaceMT
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/usuario/Downloads/Nintendo Switch - Super Mario Odyssey - Mario/Super Mario Odyssey/Mario/images/MarioHairFace_alb.png
+
+newmtl HairMT
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/usuario/Downloads/Nintendo Switch - Super Mario Odyssey - Mario/Super Mario Odyssey/Mario/images/MarioHair_alb.png
+
+newmtl HandMT
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/usuario/Downloads/Nintendo Switch - Super Mario Odyssey - Mario/Super Mario Odyssey/Mario/images/MarioHand_alb.png
